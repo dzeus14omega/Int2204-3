@@ -1,6 +1,6 @@
 public class StudentManagement
 {
-    public Student[] std=new Student[5];
+    public Student[] std=new Student[100];
     public void removeStudent(String id)
     {
         int count=0;
